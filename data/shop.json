@@ -1,0 +1,19 @@
+{
+  "business": "Aurora Home Goods",
+  "note": "Entirely fictional demo data.",
+  "hours": {
+    "monday": "09:00-18:00",
+    "tuesday": "09:00-18:00",
+    "wednesday": "09:00-18:00",
+    "thursday": "09:00-18:00",
+    "friday": "09:00-18:00",
+    "saturday": "10:00-16:00",
+    "sunday": "closed"
+  },
+  "orders": {
+    "A1001": {"email": "maria@example.com", "status": "shipped", "carrier": "UPS", "tracking": "1Z999AA10123456784", "eta": "2026-10-06", "items": ["Ceramic planter x2"], "total": 54.00},
+    "A1002": {"email": "james@example.com", "status": "processing", "carrier": null, "tracking": null, "eta": "2026-10-09", "items": ["Linen throw blanket"], "total": 79.50},
+    "A1003": {"email": "priya@example.com", "status": "delivered", "carrier": "UPS", "tracking": "1Z999AA10198765432", "eta": null, "items": ["Oak serving board", "Brass candle holder"], "total": 112.25},
+    "A1004": {"email": "tomas@example.com", "status": "cancelled", "carrier": null, "tracking": null, "eta": null, "items": ["Glass carafe set"], "total": 38.00}
+  }
+}

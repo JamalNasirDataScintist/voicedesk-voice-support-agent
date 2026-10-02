@@ -1,0 +1,117 @@
+{
+  "note": "tuning = used while developing the search; held_out = written after tuning and never used to choose settings.",
+  "tuning": [
+    {
+      "q": "how long do I have to send something back for a refund",
+      "topic": "Returns"
+    },
+    {
+      "q": "can I get my money back",
+      "topic": "Returns"
+    },
+    {
+      "q": "how much does it cost to send it back",
+      "topic": "Return shipping"
+    },
+    {
+      "q": "how fast is express shipping",
+      "topic": "Delivery times"
+    },
+    {
+      "q": "when will my parcel arrive",
+      "topic": "Delivery times"
+    },
+    {
+      "q": "my vase arrived broken",
+      "topic": "Damaged or missing items"
+    },
+    {
+      "q": "there was something missing from my package",
+      "topic": "Damaged or missing items"
+    },
+    {
+      "q": "can I cancel my order",
+      "topic": "Changing or cancelling an order"
+    },
+    {
+      "q": "I want to change my order",
+      "topic": "Changing or cancelling an order"
+    },
+    {
+      "q": "do gift cards expire",
+      "topic": "Gift cards"
+    },
+    {
+      "q": "what payment methods do you take",
+      "topic": "Payment methods"
+    },
+    {
+      "q": "can I pay with a wallet",
+      "topic": "Payment methods"
+    },
+    {
+      "q": "is there a guarantee on the ceramics",
+      "topic": "Warranty"
+    },
+    {
+      "q": "how long is the warranty",
+      "topic": "Warranty"
+    }
+  ],
+  "held_out": [
+    {
+      "q": "I'd like to return a lamp I bought last week",
+      "topic": "Returns"
+    },
+    {
+      "q": "do I get a full refund if I change my mind",
+      "topic": "Returns"
+    },
+    {
+      "q": "who pays for the return label if the item is faulty",
+      "topic": "Return shipping"
+    },
+    {
+      "q": "what is the price of next day delivery",
+      "topic": "Delivery times"
+    },
+    {
+      "q": "will an order I place this morning go out today",
+      "topic": "Delivery times"
+    },
+    {
+      "q": "the glass was cracked when I opened the box",
+      "topic": "Damaged or missing items"
+    },
+    {
+      "q": "one of the two candle holders never showed up",
+      "topic": "Damaged or missing items"
+    },
+    {
+      "q": "it already shipped, can I still cancel",
+      "topic": "Changing or cancelling an order"
+    },
+    {
+      "q": "can I use a gift card on anything in the shop",
+      "topic": "Gift cards"
+    },
+    {
+      "q": "do you accept apple pay",
+      "topic": "Payment methods"
+    },
+    {
+      "q": "how many months of cover do I get on a table",
+      "topic": "Warranty"
+    },
+    {
+      "q": "does the warranty cover me dropping a vase",
+      "topic": "Warranty"
+    }
+  ],
+  "unanswerable": [
+    "do you sell motorbikes",
+    "what is the weather",
+    "zzzz",
+    "who won the football match"
+  ]
+}

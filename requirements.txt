@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+requests
+python-dotenv
+rank-bm25
+numpy
+edge-tts
+pytest
+httpx
+# Optional: enables semantic FAQ search (hybrid mode). Heavy download, skip it for keyword-only search.
+# sentence-transformers
